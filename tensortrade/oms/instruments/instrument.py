@@ -148,6 +148,7 @@ EUR = Instrument('EUR', 2, 'Euro')
 JPY = Instrument('JPY', 2, 'Japanese Yen')
 KWN = Instrument('KWN', 2, 'Korean Won')
 AUD = Instrument('AUD', 2, 'Australian Dollar')
+RUR = Instrument('RUR', 3, 'Russian ruble')
 
 # Commodities
 XAU = Instrument('XAU', 2, 'Gold futures')
